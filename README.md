@@ -1,5 +1,5 @@
 # c-file-similarity-analyzer
-C Program that takes any number of files or directories, then compares the similarity analysis of their text files through a Jensen-Shannon Distance analysis.
+Multithreaded C Program that takes any number of files or directories, then compares the similarity analysis of their text files through a Jensen-Shannon Distance analysis.
 
 Optional Parameters
 ------------------------------------------
